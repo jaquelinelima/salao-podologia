@@ -6,7 +6,7 @@
     <second-part />
     <testimonials />
     <contato />
-    <carousel-component/>
+    <!-- <carousel-component/> -->
     <footer-component />
   </div>
 </template>
