@@ -27,7 +27,7 @@ export default {
     Testimonials,
     SectionTwo,
     Contato,
-    CarouselComponent,
+    // CarouselComponent,
     FooterComponent
   },
 };
