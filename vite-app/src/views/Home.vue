@@ -16,7 +16,7 @@ import Testimonials from '../components/TestimonialsComponent.vue'
 import SecondPart from '../components/SecondPartComponent.vue'
 import Hero from '../components/HeroComponent.vue'
 import SectionTwo from '../components/SectionTwoComponent.vue'
-import CarouselComponent from '../components/CarouselComponent.vue'
+// import CarouselComponent from '../components/CarouselComponent.vue'
 import FooterComponent from '../components/FooterComponent.vue'
 import Contato from '../components/ContatoComponent.vue'
 export default {
