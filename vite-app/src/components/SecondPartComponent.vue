@@ -10,7 +10,7 @@
     </div>
     <div class="mx-auto max-w-2xl lg:text-center">
       <h2 class="font-bold leading-7 text-lg text-secundary">TRATAMENTOS</h2>
-      <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Algumas especialidades</p>
+      <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Especialidades</p>
       <p class="mt-6 text-lg leading-8 text-gray-600">Sempre em busca de especialização, a fim de oferecer atendimentos e tratamentos cada vez mais aprimorados e excepcionais.</p>
     </div>
     <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

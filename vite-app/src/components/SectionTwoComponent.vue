@@ -26,17 +26,17 @@ export default{
         {
           image: '../images/gt.jpg',
           title: 'Podologia',
-          description: 'Cuidado com a saúde docscs pés.',
+          description: 'Cuidado com a saúde dos pés.',
         },
         {
           image: '../images/manicure.jpg',
           title: 'Manicure',
-          description: 'Cuidado com a sdsdsaúde dos pés.',
+          description: 'Beleza das mãos.',
         },
         {
           image: '../images/pedicure.jpg',
           title: 'Pedicure',
-          description: 'Cuidado com a swqweúde dos pés.',
+          description: 'Beleza dos pés.',
         },
         {
           image: '../images/depila.jpg',
@@ -49,9 +49,9 @@ export default{
           description: 'Cuidado com a saúde dosqweqwe pés.',
         },
         {
-          image: '../images/aromaterapia.jpg',
-          title: 'Aromaterapia',
-          description: 'Cuidado com a saúde doeeees pés.',
+          image: '../images/unhafibra.jpg',
+          title: 'Unha de Fibra',
+          description: 'Em breve.',
         },
       ]
     }
